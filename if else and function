@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace st;
+
+int main()
+{
+    int x;
+    srand(time(0));
+    x = rand() % 10;
+
+    IF (X == 5)
+    {
+        X =X + 1;
+        COUT << "NILAI X sudah dikoreksi menjadi : " << x << endl;
+    }
+}
